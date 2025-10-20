@@ -1,0 +1,124 @@
+# EMPLOYMENT AGREEMENT
+
+**AGREEMENT** made this 1st day of October, 2025, between TECHNOVATE SOLUTIONS INC., a Delaware corporation ("Company"), and ALEX MARTINEZ ("Employee").
+
+**RECITALS**
+
+WHEREAS, Company desires to employ Employee in the capacity of Senior Software Engineer; and
+
+WHEREAS, Employee desires to accept such employment subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+
+**1. EMPLOYMENT AND DUTIES**
+
+Company hereby employs Employee, and Employee hereby accepts employment with Company, upon the terms and conditions set forth in this Agreement. Employee shall serve as Senior Software Engineer and shall perform such duties as are customarily associated with such position and such other duties as may be assigned by Company from time to time. Employee shall devote Employee's full time, attention, and energies to the business of Company and shall not engage in any other business, profession, or occupation without the prior written consent of Company.
+
+**2. TERM**
+
+This Agreement shall commence on October 15, 2025, and shall continue for a period of three (3) years, unless sooner terminated in accordance with the provisions hereof. This Agreement may be renewed for additional periods upon mutual written agreement of the parties.
+
+**3. COMPENSATION**
+
+(a) **Base Salary:** Company shall pay Employee an annual base salary of One Hundred Twenty Thousand Dollars ($120,000), payable in equal bi-weekly installments in accordance with Company's standard payroll practices.
+
+(b) **Performance Bonus:** Employee may be eligible for an annual performance bonus of up to Twenty Percent (20%) of base salary, based upon achievement of performance objectives to be established annually by Company in its sole discretion.
+
+(c) **Stock Options:** Employee shall be eligible to participate in Company's stock option plan, subject to the terms and conditions thereof and approval by the Board of Directors.
+
+**4. BENEFITS**
+
+Employee shall be entitled to participate in all employee benefit plans and programs generally available to Company's employees, including but not limited to health insurance, dental insurance, vision insurance, life insurance, disability insurance, and retirement plans, subject to the terms and conditions of such plans and Company's policies.
+
+**5. VACATION AND SICK LEAVE**
+
+Employee shall be entitled to twenty (20) days of paid vacation per year and ten (10) days of paid sick leave per year, to be accrued and used in accordance with Company's policies. Unused vacation days may be carried over to the following year up to a maximum of five (5) days.
+
+**6. CONFIDENTIALITY**
+
+Employee acknowledges that during the course of employment, Employee will have access to and become acquainted with various trade secrets, inventions, innovations, processes, information, records, and specifications owned or licensed by Company and/or used by Company in connection with the operation of its business. Employee agrees that Employee will not disclose any of the aforesaid, directly or indirectly, or use any of them in any manner, either during the term of this employment or at any time thereafter, except as required in the course of employment with Company.
+
+**7. NON-COMPETE AND NON-SOLICITATION**
+
+(a) **Non-Compete:** During the term of this Agreement and for a period of twelve (12) months following termination of employment for any reason, Employee shall not, directly or indirectly, engage in or have any interest in any business that competes with Company within a fifty (50) mile radius of Company's principal place of business.
+
+(b) **Non-Solicitation:** During the term of this Agreement and for a period of eighteen (18) months following termination of employment for any reason, Employee shall not, directly or indirectly, solicit, induce, recruit, or encourage any employee of Company to leave their employment with Company.
+
+**8. INTELLECTUAL PROPERTY**
+
+All inventions, innovations, improvements, developments, methods, processes, programs, designs, analyses, drawings, reports, and all similar or related information which relates to Company's actual or anticipated business, research and development, or existing or future products or services and which are conceived, developed, or made by Employee while employed by Company shall belong exclusively to Company.
+
+**9. TERMINATION**
+
+(a) **Termination by Company for Cause:** Company may terminate Employee's employment at any time for cause, including but not limited to: (i) material breach of this Agreement; (ii) conviction of a felony; (iii) fraud, dishonesty, or misconduct; or (iv) failure to perform duties after written notice and opportunity to cure.
+
+(b) **Termination without Cause:** Company may terminate Employee's employment at any time without cause upon thirty (30) days' written notice. In such event, Employee shall be entitled to severance pay equal to three (3) months of base salary.
+
+(c) **Termination by Employee:** Employee may terminate employment at any time upon thirty (30) days' written notice to Company.
+
+**10. RETURN OF COMPANY PROPERTY**
+
+Upon termination of employment for any reason, Employee shall immediately return to Company all documents, records, software, equipment, and other property belonging to Company.
+
+**11. DISPUTE RESOLUTION**
+
+Any dispute arising out of or relating to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association. The arbitration shall take place in San Francisco, California.
+
+**12. GOVERNING LAW**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+**13. ENTIRE AGREEMENT**
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, relating to such subject matter.
+
+**14. MODIFICATION**
+
+This Agreement may not be modified or amended except by written instrument signed by both parties.
+
+**15. SEVERABILITY**
+
+If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced to the fullest extent under law.
+
+**16. NOTICES**
+
+All notices required or permitted hereunder shall be in writing and shall be deemed given when personally delivered or three (3) days after being sent by certified mail, return receipt requested, to the addresses set forth below:
+
+**COMPANY:**  
+TechNovate Solutions Inc.  
+2450 Innovation Drive  
+San Francisco, CA 94107  
+Attention: Human Resources Director
+
+**EMPLOYEE:**  
+Alex Martinez  
+1234 Residential Street  
+San Francisco, CA 94110
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+**TECHNOVATE SOLUTIONS INC.**
+
+By: _____________________________  
+Jennifer Smith, Chief Executive Officer
+
+**EMPLOYEE:**
+
+_____________________________  
+Alex Martinez
+
+---
+
+**EXHIBIT A: PERFORMANCE OBJECTIVES**
+
+Performance objectives for the annual bonus consideration shall include, but not be limited to:
+
+1. Successful completion of assigned software development projects within established timelines
+2. Achievement of code quality standards as measured by peer review and testing metrics
+3. Contribution to team collaboration and knowledge sharing initiatives
+4. Professional development and skill enhancement in emerging technologies
+5. Customer satisfaction ratings for delivered software solutions
+
+**EXHIBIT B: CONFIDENTIALITY ACKNOWLEDGMENT**
+
+Employee acknowledges receipt of Company's Employee Handbook and Confidentiality Policy and agrees to comply with all terms and conditions set forth therein. Employee understands that violation of confidentiality obligations may result in immediate termination and legal action.

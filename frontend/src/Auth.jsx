@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Box, Container, Typography, TextField, Button, Paper, Alert, Stack, Fade, Slide } from '@mui/material';
 import GoogleIcon from '@mui/icons-material/Google';
+import { API_ENDPOINTS } from './config';
 
 export default function Auth({ onAuth, mode = 'login', onSwitchMode }) {
   const [email, setEmail] = useState('');
@@ -13,7 +14,7 @@ export default function Auth({ onAuth, mode = 'login', onSwitchMode }) {
     setLoading(true);
     setError('');
     try {
-      const url = mode === 'login' ? 'http://localhost:8000/login' : 'http://localhost:8000/register';
+      const url = mode === 'login' ? API_ENDPOINTS.login : API_ENDPOINTS.register;
       const body = mode === 'login'
         ? new URLSearchParams({ username: email, password })
         : JSON.stringify({ email, password });

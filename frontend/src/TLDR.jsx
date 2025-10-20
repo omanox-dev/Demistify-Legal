@@ -11,6 +11,7 @@ import {
 } from '@mui/icons-material';
 import { useTheme } from '@mui/material/styles';
 import FileUpload from './FileUpload';
+import { API_ENDPOINTS } from './config';
 
 export default function TLDR({ token, onNavigate, onLogout }) {
   const theme = useTheme();
@@ -50,7 +51,7 @@ export default function TLDR({ token, onNavigate, onLogout }) {
       if (file) {
         const formData = new FormData();
         formData.append('file', file);
-        const uploadRes = await fetch('http://localhost:8000/upload', {
+        const uploadRes = await fetch(API_ENDPOINTS.upload, {
           method: 'POST',
           body: formData,
           headers: { Authorization: `Bearer ${token}` },
@@ -61,7 +62,7 @@ export default function TLDR({ token, onNavigate, onLogout }) {
       
       const simplifyForm = new FormData();
       simplifyForm.append('text', docText);
-      const simplifyRes = await fetch('http://localhost:8000/simplify', {
+      const simplifyRes = await fetch(API_ENDPOINTS.simplify, {
         method: 'POST',
         headers: { Authorization: `Bearer ${token}` },
         body: simplifyForm,
