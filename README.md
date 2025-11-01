@@ -2,6 +2,11 @@
 
 This project helps non-legal professionals understand complex legal documents using AI.
 
+link to demo Video Of Application :- 
+
+Project Overview :- https://screenrec.com/share/DV5xI2v0FW
+
+Project Initil Development Link :- https://screenrec.com/share/DV5xI2v0FW
 ## Features
 
 - Upload or paste legal documents
